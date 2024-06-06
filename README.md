@@ -19,5 +19,5 @@ Feel free to explore these projects and provide any feedback or suggestions.
 ## Get in Touch
 
 - LinkedIn: Onkar Waghmode (https://www.linkedin.com/in/onkar58/)
-- Twitter: Onkar58 (https://x.com/_Onkar58)
+- Twitter: Onkar58 [![Link Icon](https://icon2.cleanpng.com/20180606/pr/kisspng-hyperlink-computer-icons-link-bait-5b1774f993d015.2452423615282639296055.jpg)](https://x.com/_Onkar58){:target="_blank"}
 - Email: onkarwaghmode58@gmail.com (mailto:onkarwaghmode58@gmail.com)
